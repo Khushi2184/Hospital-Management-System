@@ -1,0 +1,9 @@
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
